@@ -1,0 +1,86 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/clay_ball"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 5600.0
+      },
+      "model": "minecraft:item/cards/poseidon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5655.0
+      },
+      "model": "minecraft:item/cards/hermes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5900.0
+      },
+      "model": "minecraft:item/cards/zeus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3443.0
+      },
+      "model": "minecraft:item/cards/ares"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36363.0
+      },
+      "model": "minecraft:item/cards/hades"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76886.0
+      },
+      "model": "minecraft:item/cards/wither"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23323.0
+      },
+      "model": "minecraft:item/cards/health"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14532.0
+      },
+      "model": "minecraft:item/cards/warden"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41749.0
+      },
+      "model": "minecraft:item/cards/chronos"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24729.0
+      },
+      "model": "minecraft:item/cards/gravity"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34334.0
+      },
+      "model": "minecraft:item/cards/time"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24242.0
+      },
+      "model": "minecraft:item/cards/gojo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26246.0
+      },
+      "model": "minecraft:item/cards/glitch"
+    }
+  ]
+}

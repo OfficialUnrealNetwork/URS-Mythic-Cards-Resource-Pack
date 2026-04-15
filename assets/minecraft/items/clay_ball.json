@@ -1,0 +1,104 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 3443.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/ares"
+        }
+      },
+      {
+        "threshold": 5600.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/poseidon"
+        }
+      },
+      {
+        "threshold": 5655.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/hermes"
+        }
+      },
+      {
+        "threshold": 5900.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/zeus"
+        }
+      },
+      {
+        "threshold": 14532.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/warden"
+        }
+      },
+      {
+        "threshold": 23323.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/health"
+        }
+      },
+      {
+        "threshold": 24242.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/gojo"
+        }
+      },
+      {
+        "threshold": 24729.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/gravity"
+        }
+      },
+      {
+        "threshold": 26246.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/glitch"
+        }
+      },
+      {
+        "threshold": 34334.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/time"
+        }
+      },
+      {
+        "threshold": 36363.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/hades"
+        }
+      },
+      {
+        "threshold": 41749.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/chronos"
+        }
+      },
+      {
+        "threshold": 76886.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cards/wither"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/clay_ball"
+    }
+  }
+}
